@@ -1,3 +1,5 @@
 # G_Structure
 
-new graph struture for mining
+new high-level graph struture
+
+can used to do sth like exact mining
